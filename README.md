@@ -10,3 +10,5 @@ Things to keep in mind:
 - Platform discrepancies: supported programming languages, screen sizes, interaction medium.
 - Storage of data and syncing between the devices.
 - Will need to be a web app or using a framework like React Native: means I can learn another language if I want to.
+
+I will start making steps towards development tomorrow.
