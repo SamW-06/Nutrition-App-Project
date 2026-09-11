@@ -12,3 +12,7 @@ Things to keep in mind:
 - Will need to be a web app or using a framework like React Native: means I can learn another language if I want to.
 
 I will start making steps towards development tomorrow.
+
+NOTE:
+  -  I have decided to go the route of combining this project with learning javascript for the web app route, also css and html for the layout and design elements.
+  -  I'm therefore going to start off by learning these and developing the app over time along the way.
